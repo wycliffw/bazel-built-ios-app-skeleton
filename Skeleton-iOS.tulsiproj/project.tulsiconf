@@ -1,0 +1,12 @@
+{
+  "configDefaults" : {
+    "optionSet" : {
+
+    }
+  },
+  "packages" : [
+    ""
+  ],
+  "projectName" : "Skeleton-iOS",
+  "workspaceRoot" : ".."
+}
